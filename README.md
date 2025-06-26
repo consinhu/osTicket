@@ -1,5 +1,5 @@
 <h1> osTicket Part 1 - Files and Setup </h1>
-In the first part of my ticketing/helpdesk project, I outline the prequisites and subsequent steps for the installation of the open-source software osticket. <br />
+In the first part of my ticketing/helpdesk project, I outline the prequisites and subsequent steps for the installation of the open-source software osTicket. <br />
 
 <p align="center"><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" /> </p>
 
